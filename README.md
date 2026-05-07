@@ -4,6 +4,8 @@ A map generator and visualizer written in Odin to learn and test things with thi
 
 It uses multiple Perlin noise layers to generate a rather detailed world map that can be navigated and zoomed through using either the mouse or the keyboard. We can increase the generated size and change the seed too.
 
+<img width="1599" height="901" alt="image" src="https://github.com/user-attachments/assets/49d847dc-968e-4809-8cba-8ac301837960" />
+
 ## Checking it
 
 Binaries are available in the release tags.
