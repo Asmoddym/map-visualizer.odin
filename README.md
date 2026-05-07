@@ -1,10 +1,18 @@
-# Usage
+# MapVisualizer.odin
+
+A map generator and visualizer written in Odin to learn and test things with this language. This first was intended as a world generation for a city building game.
+
+It uses multiple Perlin noise layers to generate a rather detailed world map that can be navigated and zoomed through using either the mouse or the keyboard. We can increase the generated size and change the seed too.
+
+## Checking it
+
+Binaries are available in the release tags.
+
+## Developing
 
 ```bash
 .\vendor\builder.bat run debug
 ```
-
-# Developing
 
 Update submodules to fetch `ols`, then install it
 ```bash
